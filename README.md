@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 # Welcome to this Tutorial Project for Hadley Wickham's R for Data Science book
 ## Header 2
 ### The original authors for this tutorial are 
@@ -17,28 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Welcome to this Tutorial Project for Hadley Wickham's R for Data Science book
-## Header 2
-### The original authors for this tutorial are 
-
-- AL-TWAY Kamal Fawzi Ali
-- YAMAGUCHI Yuji
-- NGO Dang Hoang
-- DASH Soujanya
-- CLASTER William B.
-
-
-![image](https://user-images.githubusercontent.com/82075509/127280793-d2738eef-0fbc-401c-90a7-219d4e72be29.png)
-
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
