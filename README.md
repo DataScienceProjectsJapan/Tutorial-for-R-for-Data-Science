@@ -1,5 +1,6 @@
-# Welcome to this Tutorial Project for Hadley Wickham's R for Data Science book
-## The original authors for this tutorial are 
+# Tutorial Project for
+##  Hadley Wickham's R for Data Science book
+### The original authors for this tutorial are 
 
 - AL-TWAY Kamal Fawzi Ali
 - YAMAGUCHI Yuji
