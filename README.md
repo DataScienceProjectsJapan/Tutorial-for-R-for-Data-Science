@@ -11,12 +11,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Welcome to this Tutorial Project for Hadley Wickham's R for Data Science book
 ## Header 2
-### Header 3
+### The original authors for this tutorial are 
 
-- Bulleted
-- List
+- AL-TWAY Kamal Fawzi Ali
+- YAMAGUCHI Yuji
+- NGO Dang Hoang
+- DASH Soujanya
+- CLASTER William B.
+
+
+![image](https://user-images.githubusercontent.com/82075509/127280793-d2738eef-0fbc-401c-90a7-219d4e72be29.png)
+
 
 1. Numbered
 2. List
