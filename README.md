@@ -3,9 +3,9 @@
 ### The original authors for this tutorial are 
 
 - AL-TWAY Kamal Fawzi Ali
-- YAMAGUCHI Yuji
-- NGO Dang Hoang
 - DASH Soujanya
+- NGO Dang Hoang
+- YAMAGUCHI Yuji
 - CLASTER William B.
 You can use the [editor on GitHub](https://github.com/DataScienceProjectsJapan/Tutorial-for-R-for-Data-Science/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
